@@ -1,2 +1,2 @@
 # our-operating-system
-Operating system for university
+A mock operating system for an university course
